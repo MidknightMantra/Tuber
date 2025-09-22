@@ -32,7 +32,7 @@ No embedded players. No tracking pixels.
 - GitHub Pages
 
 ### 🌐 Live Demo  
-👉 https://YOUR-USERNAME.github.io/tuber/
+👉 https://MidknightMantra.github.io/tuber/
 
 ### 💬 Contributing
 Fork it. Improve it. Share it.  
